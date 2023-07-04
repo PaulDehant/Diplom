@@ -46,7 +46,7 @@ java "-Dspring.datasource.url=jdbc:postgresql://localhost:5432/db_postgresql" -j
    docker-compose down
 
 ### Документация проекта:
-[1.Задание к диплому](https://github.com/Pauldehant/Diplom/docs/Task.md)  
+[1.Задание к диплому](https://github.com/PaulDehant/Diplom/blob/main/docs/Plan.md)  
 [2.План автоматизации](https://github.com/Pauldehant/Diplom/docs/Plan.md)  
-[3.Отчет по итогам тестирования](https://github.com/Pauldehant/Diplom/docs/Report.md)
-[4.Отчет по итогам автоматизации](https://github.com/Pauldehant/Diplom/docs/Summary.md)
+[3.Отчет по итогам тестирования](https://github.com/PaulDehant/Diplom/blob/main/docs/Report.md)
+[4.Отчет по итогам автоматизации](https://github.com/PaulDehant/Diplom/blob/main/docs/Summary.md)
